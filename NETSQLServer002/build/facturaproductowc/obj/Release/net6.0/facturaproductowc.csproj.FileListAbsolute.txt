@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\facturaproductowc.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\facturaproductowc.pdb
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\facturaproductowc.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\facturaproductowc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\facturaproductowc.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\facturaproductowc.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\facturaproductowc.dll
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\refint\facturaproductowc.dll
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\facturaproductowc.pdb
+D:\GenX\xd2\NETSQLServer002\build\facturaproductowc\obj\Release\net6.0\ref\facturaproductowc.dll

@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\wwsucursal.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\wwsucursal.pdb
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\wwsucursal.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\wwsucursal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\wwsucursal.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\wwsucursal.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\wwsucursal.dll
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\refint\wwsucursal.dll
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\wwsucursal.pdb
+D:\GenX\xd2\NETSQLServer002\build\wwsucursal\obj\Release\net6.0\ref\wwsucursal.dll

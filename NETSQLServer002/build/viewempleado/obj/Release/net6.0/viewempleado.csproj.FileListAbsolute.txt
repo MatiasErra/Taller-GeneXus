@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\viewempleado.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\viewempleado.pdb
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\viewempleado.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\viewempleado.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\viewempleado.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\viewempleado.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\viewempleado.dll
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\refint\viewempleado.dll
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\viewempleado.pdb
+D:\GenX\xd2\NETSQLServer002\build\viewempleado\obj\Release\net6.0\ref\viewempleado.dll

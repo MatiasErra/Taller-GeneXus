@@ -1,0 +1,37 @@
+CREATE TABLE [proveedor] ([proveedorId] smallint NOT NULL IDENTITY(1,1), [proveedorName] nvarchar(40) NOT NULL , [proveedorAddress] nvarchar(1024) NOT NULL , [proveedorPhone] nchar(20) NOT NULL , [proveedorEmail] nvarchar(100) NOT NULL , PRIMARY KEY([proveedorId]))
+
+CREATE TABLE [tipoDeProducto] ([tipoDeProductoId] smallint NOT NULL IDENTITY(1,1), [tipoDeProductoName] nvarchar(40) NOT NULL , PRIMARY KEY([tipoDeProductoId]))
+
+CREATE TABLE [facturaproducto] ([facturaId] smallint NOT NULL , [productoId] smallint NOT NULL , [productoCount] smallint NOT NULL , PRIMARY KEY([facturaId], [productoId]))
+CREATE NONCLUSTERED INDEX [IFACTURAPRODUCTO1] ON [facturaproducto] ([productoId] )
+
+CREATE TABLE [factura] ([facturaId] smallint NOT NULL IDENTITY(1,1), [facturaDate] datetime NOT NULL , [facturaClientName] nvarchar(40) NOT NULL , [facturaTipoPago] nvarchar(40) NOT NULL , [sucursalId] smallint NOT NULL , PRIMARY KEY([facturaId]))
+CREATE NONCLUSTERED INDEX [IFACTURA1] ON [factura] ([sucursalId] )
+
+CREATE TABLE [producto] ([productoId] smallint NOT NULL IDENTITY(1,1), [productoName] nvarchar(40) NOT NULL , [productoImage] VARBINARY(MAX) NOT NULL , [productoImage_GXI] varchar(2048) NULL , [productoSellPrice] money NOT NULL , [productoCostPrice] money NOT NULL , [proveedorId] smallint NOT NULL , [tipoDeProductoId] smallint NOT NULL , PRIMARY KEY([productoId]))
+CREATE NONCLUSTERED INDEX [IPRODUCTO2] ON [producto] ([tipoDeProductoId] )
+CREATE NONCLUSTERED INDEX [IPRODUCTO1] ON [producto] ([proveedorId] )
+
+CREATE TABLE [sucursalproducto] ([sucursalId] smallint NOT NULL , [productoId] smallint NOT NULL , [productoStock] decimal( 10) NOT NULL , PRIMARY KEY([sucursalId], [productoId]))
+CREATE NONCLUSTERED INDEX [ISUCURSALPRODUCTO1] ON [sucursalproducto] ([productoId] )
+
+CREATE TABLE [sucursal] ([sucursalId] smallint NOT NULL IDENTITY(1,1), [sucursalName] nvarchar(40) NOT NULL , [sucursalAddress] nvarchar(1024) NOT NULL , [sucursalGeolocation] nchar(50) NOT NULL , [sucursalAddedDate] datetime NOT NULL , [sucursalEmpleadoHeadlineId] smallint NOT NULL , [sucursalEmpleadoAlternateId] smallint NULL , PRIMARY KEY([sucursalId]))
+CREATE NONCLUSTERED INDEX [ISUCURSAL1] ON [sucursal] ([sucursalEmpleadoHeadlineId] )
+CREATE NONCLUSTERED INDEX [ISUCURSAL2] ON [sucursal] ([sucursalEmpleadoAlternateId] )
+
+CREATE TABLE [empleado] ([empleadoId] smallint NOT NULL IDENTITY(1,1), [empleadoName] nvarchar(40) NOT NULL , [empleadoCI] int NOT NULL , [empleadoEmail] nvarchar(100) NOT NULL , [empleadoPhone] nchar(20) NOT NULL , PRIMARY KEY([empleadoId]))
+
+ALTER TABLE [sucursal] ADD CONSTRAINT [ISUCURSAL2] FOREIGN KEY ([sucursalEmpleadoAlternateId]) REFERENCES [empleado] ([empleadoId])
+ALTER TABLE [sucursal] ADD CONSTRAINT [ISUCURSAL1] FOREIGN KEY ([sucursalEmpleadoHeadlineId]) REFERENCES [empleado] ([empleadoId])
+
+ALTER TABLE [sucursalproducto] ADD CONSTRAINT [ISUCURSALPRODUCTO2] FOREIGN KEY ([sucursalId]) REFERENCES [sucursal] ([sucursalId])
+ALTER TABLE [sucursalproducto] ADD CONSTRAINT [ISUCURSALPRODUCTO1] FOREIGN KEY ([productoId]) REFERENCES [producto] ([productoId])
+
+ALTER TABLE [producto] ADD CONSTRAINT [IPRODUCTO1] FOREIGN KEY ([proveedorId]) REFERENCES [proveedor] ([proveedorId])
+ALTER TABLE [producto] ADD CONSTRAINT [IPRODUCTO2] FOREIGN KEY ([tipoDeProductoId]) REFERENCES [tipoDeProducto] ([tipoDeProductoId])
+
+ALTER TABLE [factura] ADD CONSTRAINT [IFACTURA1] FOREIGN KEY ([sucursalId]) REFERENCES [sucursal] ([sucursalId])
+
+ALTER TABLE [facturaproducto] ADD CONSTRAINT [IFACTURAPRODUCTO2] FOREIGN KEY ([facturaId]) REFERENCES [factura] ([facturaId])
+ALTER TABLE [facturaproducto] ADD CONSTRAINT [IFACTURAPRODUCTO1] FOREIGN KEY ([productoId]) REFERENCES [producto] ([productoId])
+

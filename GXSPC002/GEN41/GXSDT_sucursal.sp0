@@ -1,0 +1,165 @@
+ 
+spec_i([ sdt,[ 0,2,0 ],sucursal,sucursal,0,spa,'18_0_1-167910' ]).
+ 
+struct_dt_i([ 0,2,0 ],name,sucursal).
+struct_dt_i([ 0,2,0 ],namespace,xd2).
+struct_dt_i([ 0,2,0 ],significantName,sucursal).
+struct_dt_i([ 0,2,0 ],'ObjName',sucursal).
+struct_dt_i([ 0,2,0 ],'ObjDesc',sucursal).
+struct_dt_i([ 0,2,0 ],'ExternalName',sucursal).
+struct_dt_i([ 0,2,0 ],'ExternalNamespace',xd2).
+struct_dt_i([ 0,2,0 ],key,[ 2 ]).
+struct_dt_i([ 0,2,0 ],lvl,2).
+struct_dt_i([ 0,2,[ 2,5 ] ],name,producto).
+struct_dt_i([ 0,2,[ 2,5 ] ],namespace,'xd2.sucursal').
+struct_dt_i([ 0,2,[ 2,5 ] ],lvl,3).
+struct_dt_i([ 0,2,0 ],fullname,sucursal).
+struct_dt_i([ 0,2,[ 2,5 ] ],fullname,'sucursal.producto').
+ 
+struct_dt_elem_i([ 0,2,0 ],1,name,'Sucursalid').
+struct_dt_elem_i([ 0,2,0 ],1,camelname,sucursalId).
+struct_dt_elem_i([ 0,2,0 ],1,length,4).
+struct_dt_elem_i([ 0,2,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],1,sign,0).
+struct_dt_elem_i([ 0,2,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],1,attributeid,'2').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalName',sucursalId).
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],2,name,'Sucursalname').
+struct_dt_elem_i([ 0,2,0 ],2,camelname,sucursalName).
+struct_dt_elem_i([ 0,2,0 ],2,basedon,94).
+struct_dt_elem_i([ 0,2,0 ],2,length,40).
+struct_dt_elem_i([ 0,2,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],2,type,[ 13,40,0 ]).
+struct_dt_elem_i([ 0,2,0 ],2,pic,'').
+struct_dt_elem_i([ 0,2,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],2,attributeid,'13').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalName',sucursalName).
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],3,name,'Sucursaladdress').
+struct_dt_elem_i([ 0,2,0 ],3,camelname,sucursalAddress).
+struct_dt_elem_i([ 0,2,0 ],3,basedon,44).
+struct_dt_elem_i([ 0,2,0 ],3,length,1024).
+struct_dt_elem_i([ 0,2,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],3,type,[ 13,1024,0 ]).
+struct_dt_elem_i([ 0,2,0 ],3,pic,'').
+struct_dt_elem_i([ 0,2,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],3,attributeid,'14').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalName',sucursalAddress).
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],4,name,'Sucursalgeolocation').
+struct_dt_elem_i([ 0,2,0 ],4,camelname,sucursalGeolocation).
+struct_dt_elem_i([ 0,2,0 ],4,basedon,47).
+struct_dt_elem_i([ 0,2,0 ],4,length,50).
+struct_dt_elem_i([ 0,2,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],4,type,[ 5,50,0 ]).
+struct_dt_elem_i([ 0,2,0 ],4,pic,'').
+struct_dt_elem_i([ 0,2,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],4,attributeid,'17').
+struct_dt_elem_i([ 0,2,0 ],4,'ExternalName',sucursalGeolocation).
+struct_dt_elem_i([ 0,2,0 ],4,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],5,name,'Sucursaladdeddate').
+struct_dt_elem_i([ 0,2,0 ],5,camelname,sucursalAddedDate).
+struct_dt_elem_i([ 0,2,0 ],5,length,8).
+struct_dt_elem_i([ 0,2,0 ],5,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],5,type,[ 6,8,0 ]).
+struct_dt_elem_i([ 0,2,0 ],5,pic,'99/99/99').
+struct_dt_elem_i([ 0,2,0 ],5,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],5,attributeid,'18').
+struct_dt_elem_i([ 0,2,0 ],5,'ExternalName',sucursalAddedDate).
+struct_dt_elem_i([ 0,2,0 ],5,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],6,name,'Sucursalempleadoheadlineid').
+struct_dt_elem_i([ 0,2,0 ],6,camelname,sucursalEmpleadoHeadlineId).
+struct_dt_elem_i([ 0,2,0 ],6,length,4).
+struct_dt_elem_i([ 0,2,0 ],6,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],6,sign,0).
+struct_dt_elem_i([ 0,2,0 ],6,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],6,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],6,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],6,attributeid,'3').
+struct_dt_elem_i([ 0,2,0 ],6,'ExternalName',sucursalEmpleadoHeadlineId).
+struct_dt_elem_i([ 0,2,0 ],6,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],7,name,'Sucursalempleadoheadlinename').
+struct_dt_elem_i([ 0,2,0 ],7,camelname,sucursalEmpleadoHeadlineName).
+struct_dt_elem_i([ 0,2,0 ],7,basedon,94).
+struct_dt_elem_i([ 0,2,0 ],7,length,40).
+struct_dt_elem_i([ 0,2,0 ],7,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],7,type,[ 13,40,0 ]).
+struct_dt_elem_i([ 0,2,0 ],7,pic,'').
+struct_dt_elem_i([ 0,2,0 ],7,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],7,attributeid,'19').
+struct_dt_elem_i([ 0,2,0 ],7,'ExternalName',sucursalEmpleadoHeadlineName).
+struct_dt_elem_i([ 0,2,0 ],7,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],8,name,'Sucursalempleadoalternateid').
+struct_dt_elem_i([ 0,2,0 ],8,camelname,sucursalEmpleadoAlternateId).
+struct_dt_elem_i([ 0,2,0 ],8,length,4).
+struct_dt_elem_i([ 0,2,0 ],8,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],8,sign,0).
+struct_dt_elem_i([ 0,2,0 ],8,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],8,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],8,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],8,attributeid,'4').
+struct_dt_elem_i([ 0,2,0 ],8,'ExternalName',sucursalEmpleadoAlternateId).
+struct_dt_elem_i([ 0,2,0 ],8,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],9,name,'Sucursalempleadoalternatename').
+struct_dt_elem_i([ 0,2,0 ],9,camelname,sucursalEmpleadoAlternateName).
+struct_dt_elem_i([ 0,2,0 ],9,basedon,94).
+struct_dt_elem_i([ 0,2,0 ],9,length,40).
+struct_dt_elem_i([ 0,2,0 ],9,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],9,type,[ 13,40,0 ]).
+struct_dt_elem_i([ 0,2,0 ],9,pic,'').
+struct_dt_elem_i([ 0,2,0 ],9,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],9,attributeid,'20').
+struct_dt_elem_i([ 0,2,0 ],9,'ExternalName',sucursalEmpleadoAlternateName).
+struct_dt_elem_i([ 0,2,0 ],9,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,0 ],10,name,'Producto').
+struct_dt_elem_i([ 0,2,0 ],10,camelname,producto).
+struct_dt_elem_i([ 0,2,0 ],10,type,[ [ 0,2,[ 2,5 ] ],0,0 ]).
+struct_dt_elem_i([ 0,2,0 ],10,pic,'').
+struct_dt_elem_i([ 0,2,0 ],10,collection,'True').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,name,'Productoid').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,camelname,productoId).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,length,4).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,decimals,0).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,sign,0).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,collection,'False').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,attributeid,'5').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,'ExternalName',productoId).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],1,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,name,'Productoname').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,camelname,productoName).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,basedon,94).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,length,40).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,decimals,0).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,type,[ 13,40,0 ]).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,pic,'').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,collection,'False').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,attributeid,'25').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,'ExternalName',productoName).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],2,'ExternalNamespace',xd2).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,name,'Productostock').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,camelname,productoStock).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,basedon,97).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,length,10).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,decimals,0).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,sign,0).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,type,[ 4,10,0 ]).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,pic,'ZZZZZZZZZ9').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,collection,'False').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,attributeid,'30').
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,'ExternalName',productoStock).
+struct_dt_elem_i([ 0,2,[ 2,5 ] ],3,'ExternalNamespace',xd2).
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

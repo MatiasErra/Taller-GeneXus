@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\general.ui.masterprompt.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\general.ui.masterprompt.pdb
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\general.ui.masterprompt.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\general.ui.masterprompt.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\general.ui.masterprompt.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\general.ui.masterprompt.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\general.ui.masterprompt.dll
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\refint\general.ui.masterprompt.dll
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\general.ui.masterprompt.pdb
+D:\GenX\xd2\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net6.0\ref\general.ui.masterprompt.dll

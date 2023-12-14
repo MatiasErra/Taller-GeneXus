@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GenX\\xd2\\NETSQLServer002\\web\\GxDeps.csproj": {}
+  },
+  "projects": {
+    "D:\\GenX\\xd2\\NETSQLServer002\\web\\GxDeps.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GenX\\xd2\\NETSQLServer002\\web\\GxDeps.csproj",
+        "projectName": "GxDeps",
+        "projectPath": "D:\\GenX\\xd2\\NETSQLServer002\\web\\GxDeps.csproj",
+        "packagesPath": "C:\\Users\\there\\.nuget\\packages\\",
+        "outputPath": "D:\\GenX\\xd2\\NETSQLServer002\\web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\GenX\\xd2\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\there\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "GeneXus.Classes.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.DataInitialization.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.Excel.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.Mail.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.Maps.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.NetCoreStartup": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.Reorganization.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.SDAPI.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "GeneXus.Search.Core": {
+              "target": "Package",
+              "version": "[1.21.2, 1.21.2]"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.110, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

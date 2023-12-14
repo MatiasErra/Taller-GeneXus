@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\sucursalselect.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\sucursalselect.pdb
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\sucursalselect.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\sucursalselect.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\sucursalselect.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\sucursalselect.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\sucursalselect.dll
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\refint\sucursalselect.dll
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\sucursalselect.pdb
+D:\GenX\xd2\NETSQLServer002\build\sucursalselect\obj\Release\net6.0\ref\sucursalselect.dll

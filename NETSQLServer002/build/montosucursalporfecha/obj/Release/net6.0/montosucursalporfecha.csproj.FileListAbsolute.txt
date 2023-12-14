@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\montosucursalporfecha.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\montosucursalporfecha.pdb
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\montosucursalporfecha.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\montosucursalporfecha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\montosucursalporfecha.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\montosucursalporfecha.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\montosucursalporfecha.dll
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\refint\montosucursalporfecha.dll
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\montosucursalporfecha.pdb
+D:\GenX\xd2\NETSQLServer002\build\montosucursalporfecha\obj\Release\net6.0\ref\montosucursalporfecha.dll

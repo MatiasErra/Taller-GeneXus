@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\wwproducto.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\wwproducto.pdb
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\wwproducto.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\wwproducto.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\wwproducto.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\wwproducto.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\wwproducto.dll
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\refint\wwproducto.dll
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\wwproducto.pdb
+D:\GenX\xd2\NETSQLServer002\build\wwproducto\obj\Release\net6.0\ref\wwproducto.dll

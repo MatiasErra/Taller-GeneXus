@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\tipodeproductogeneral.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\tipodeproductogeneral.pdb
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\tipodeproductogeneral.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\tipodeproductogeneral.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\tipodeproductogeneral.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\tipodeproductogeneral.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\tipodeproductogeneral.dll
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\refint\tipodeproductogeneral.dll
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\tipodeproductogeneral.pdb
+D:\GenX\xd2\NETSQLServer002\build\tipodeproductogeneral\obj\Release\net6.0\ref\tipodeproductogeneral.dll

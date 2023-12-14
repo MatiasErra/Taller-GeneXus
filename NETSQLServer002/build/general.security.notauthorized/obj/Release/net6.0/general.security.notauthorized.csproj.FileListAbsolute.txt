@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\general.security.notauthorized.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\general.security.notauthorized.pdb
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\general.security.notauthorized.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\general.security.notauthorized.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\general.security.notauthorized.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\general.security.notauthorized.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\general.security.notauthorized.dll
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\refint\general.security.notauthorized.dll
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\general.security.notauthorized.pdb
+D:\GenX\xd2\NETSQLServer002\build\general.security.notauthorized\obj\Release\net6.0\ref\general.security.notauthorized.dll

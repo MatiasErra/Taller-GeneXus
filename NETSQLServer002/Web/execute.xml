@@ -1,0 +1,70 @@
+<?xml-stylesheet type='text/xsl' href='prgs.xsl'?><Objects>
+  <Charset>UTF-8</Charset>
+  <Path>file:///D:/Program Files (x86)/GeneXus/GeneXus18Trial/</Path>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWempleado</ObjName>
+    <ObjDesc>Work With empleado</ObjDesc>
+    <ObjLink>wwempleado.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWsucursal</ObjName>
+    <ObjDesc>Work With sucursal</ObjDesc>
+    <ObjLink>wwsucursal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWproducto</ObjName>
+    <ObjDesc>Work With producto</ObjDesc>
+    <ObjLink>wwproducto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWfactura</ObjName>
+    <ObjDesc>Work With factura</ObjDesc>
+    <ObjLink>wwfactura.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWtipoDeProducto</ObjName>
+    <ObjDesc>Work With tipo De Producto</ObjDesc>
+    <ObjLink>wwtipodeproducto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWproveedor</ObjName>
+    <ObjDesc>Work With proveedor</ObjDesc>
+    <ObjLink>wwproveedor.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Home</ObjName>
+    <ObjDesc>Home</ObjDesc>
+    <ObjLink>home.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MontoSucursalPorFecha</ObjName>
+    <ObjDesc>Monto Sucursal Por Fecha</ObjDesc>
+    <ObjLink>montosucursalporfecha.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>sucursalSelect</ObjName>
+    <ObjDesc>sucursal Select</ObjDesc>
+    <ObjLink>sucursalselect.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ventasSucursalPorFecha</ObjName>
+    <ObjDesc>ventas Sucursal Por Fecha</ObjDesc>
+    <ObjLink>ventassucursalporfecha.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>productoStock</ObjName>
+    <ObjDesc>producto Stock</ObjDesc>
+    <ObjLink>productostock.aspx</ObjLink>
+  </Object>
+</Objects>

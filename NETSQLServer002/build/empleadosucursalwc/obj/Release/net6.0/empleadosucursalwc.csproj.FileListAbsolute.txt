@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\empleadosucursalwc.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\empleadosucursalwc.pdb
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\empleadosucursalwc.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\empleadosucursalwc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\empleadosucursalwc.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\empleadosucursalwc.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\empleadosucursalwc.dll
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\refint\empleadosucursalwc.dll
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\empleadosucursalwc.pdb
+D:\GenX\xd2\NETSQLServer002\build\empleadosucursalwc\obj\Release\net6.0\ref\empleadosucursalwc.dll

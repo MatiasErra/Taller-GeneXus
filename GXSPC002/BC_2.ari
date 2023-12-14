@@ -1,0 +1,16 @@
+bc_dt_elem_i([ 0,2,0 ],'Sucursalid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalname',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursaladdress',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalgeolocation',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursaladdeddate',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Sucursaladdeddate',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalempleadoheadlineid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalempleadoheadlinename',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalempleadoheadlinename',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalempleadoalternatename',readonly,yes).
+bc_dt_elem_i([ 0,2,0 ],'Sucursalempleadoalternatename',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 2,5 ] ],'Productoid',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 2,5 ] ],'Productoname',readonly,yes).
+bc_dt_elem_i([ 0,2,[ 2,5 ] ],'Productoname',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 2,5 ] ],'Productostock',allownulls,no).
+ 

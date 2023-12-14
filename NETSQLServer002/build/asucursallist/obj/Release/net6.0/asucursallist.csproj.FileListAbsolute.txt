@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\asucursallist.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\asucursallist.pdb
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\asucursallist.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\asucursallist.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\asucursallist.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\asucursallist.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\asucursallist.dll
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\refint\asucursallist.dll
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\asucursallist.pdb
+D:\GenX\xd2\NETSQLServer002\build\asucursallist\obj\Release\net6.0\ref\asucursallist.dll

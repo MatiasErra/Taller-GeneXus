@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\amontosucursal.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\amontosucursal.pdb
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\amontosucursal.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\amontosucursal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\amontosucursal.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\amontosucursal.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\amontosucursal.dll
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\refint\amontosucursal.dll
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\amontosucursal.pdb
+D:\GenX\xd2\NETSQLServer002\build\amontosucursal\obj\Release\net6.0\ref\amontosucursal.dll

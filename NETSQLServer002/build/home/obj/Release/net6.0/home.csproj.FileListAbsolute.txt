@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\home.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\home.pdb
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\home.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\home.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\home.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\home.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\home.dll
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\refint\home.dll
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\home.pdb
+D:\GenX\xd2\NETSQLServer002\build\home\obj\Release\net6.0\ref\home.dll

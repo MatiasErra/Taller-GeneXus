@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_xd2</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>DESKTOP-PMKO4KD\SQLEXPRESS</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>D:\GenX\xd2</Directory>
+	<DataFile>GX_KB_xd2.mdf</DataFile>
+	<LogFile>GX_KB_xd2_log.ldf</LogFile>
+	<HostName>DESKTOP-PMKO4KD</HostName>
+</ConnectionInformation>

@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\proveedorproductowc.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\proveedorproductowc.pdb
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\proveedorproductowc.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\proveedorproductowc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\proveedorproductowc.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\proveedorproductowc.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\proveedorproductowc.dll
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\refint\proveedorproductowc.dll
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\proveedorproductowc.pdb
+D:\GenX\xd2\NETSQLServer002\build\proveedorproductowc\obj\Release\net6.0\ref\proveedorproductowc.dll

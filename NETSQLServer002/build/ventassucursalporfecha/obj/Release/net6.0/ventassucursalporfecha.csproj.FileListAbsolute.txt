@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\ventassucursalporfecha.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\ventassucursalporfecha.pdb
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ventassucursalporfecha.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ventassucursalporfecha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ventassucursalporfecha.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ventassucursalporfecha.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ventassucursalporfecha.dll
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\refint\ventassucursalporfecha.dll
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ventassucursalporfecha.pdb
+D:\GenX\xd2\NETSQLServer002\build\ventassucursalporfecha\obj\Release\net6.0\ref\ventassucursalporfecha.dll

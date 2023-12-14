@@ -1,0 +1,13 @@
+bc_dt_elem_i([ 0,3,0 ],'Productoid',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Productoname',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Productoimage',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Productosellprice',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Productocostprice',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Proveedorid',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Proveedorname',readonly,yes).
+bc_dt_elem_i([ 0,3,0 ],'Proveedorname',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Tipodeproductoid',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Tipodeproductoname',readonly,yes).
+bc_dt_elem_i([ 0,3,0 ],'Tipodeproductoname',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Productoimage_gxi',allownulls,no).
+ 

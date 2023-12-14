@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\viewtipodeproducto.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\viewtipodeproducto.pdb
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\viewtipodeproducto.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\viewtipodeproducto.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\viewtipodeproducto.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\viewtipodeproducto.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\viewtipodeproducto.dll
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\refint\viewtipodeproducto.dll
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\viewtipodeproducto.pdb
+D:\GenX\xd2\NETSQLServer002\build\viewtipodeproducto\obj\Release\net6.0\ref\viewtipodeproducto.dll

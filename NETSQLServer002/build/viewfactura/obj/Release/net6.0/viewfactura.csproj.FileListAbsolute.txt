@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\viewfactura.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\viewfactura.pdb
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\viewfactura.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\viewfactura.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\viewfactura.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\viewfactura.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\viewfactura.dll
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\refint\viewfactura.dll
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\viewfactura.pdb
+D:\GenX\xd2\NETSQLServer002\build\viewfactura\obj\Release\net6.0\ref\viewfactura.dll

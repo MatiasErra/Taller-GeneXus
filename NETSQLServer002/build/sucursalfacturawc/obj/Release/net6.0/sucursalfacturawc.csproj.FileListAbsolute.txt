@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\sucursalfacturawc.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\sucursalfacturawc.pdb
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\sucursalfacturawc.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\sucursalfacturawc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\sucursalfacturawc.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\sucursalfacturawc.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\sucursalfacturawc.dll
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\refint\sucursalfacturawc.dll
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\sucursalfacturawc.pdb
+D:\GenX\xd2\NETSQLServer002\build\sucursalfacturawc\obj\Release\net6.0\ref\sucursalfacturawc.dll

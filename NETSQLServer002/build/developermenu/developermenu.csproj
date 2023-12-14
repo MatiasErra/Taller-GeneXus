@@ -1,0 +1,86 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+	
+	
+	<PropertyGroup>
+		<AssemblyName>developermenu</AssemblyName>
+		<TargetFramework>$(TargetFramework)</TargetFramework>
+		<OutputType>Library</OutputType>
+		<GenerateDependencyFile>false</GenerateDependencyFile>
+		<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+		<PostgresqlSupport>false</PostgresqlSupport>
+		<OfficeSupport>false</OfficeSupport>
+		<MailSupport>false</MailSupport>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include=".\..\amontosucursal\amontosucursal.csproj" />
+		<ProjectReference Include=".\..\amontosucursal\amontosucursal.csproj" />
+		<ProjectReference Include=".\..\asucursallist\asucursallist.csproj" />
+		<ProjectReference Include=".\..\asucursallist\asucursallist.csproj" />
+		<ProjectReference Include=".\..\asucursalventas\asucursalventas.csproj" />
+		<ProjectReference Include=".\..\asucursalventas\asucursalventas.csproj" />
+		<ProjectReference Include=".\..\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj" />
+		<ProjectReference Include=".\..\general.ui.masterprompt\general.ui.masterprompt.csproj" />
+		<ProjectReference Include=".\..\general.security.notauthorized\general.security.notauthorized.csproj" />
+		<ProjectReference Include=".\..\wwempleado\wwempleado.csproj" />
+		<ProjectReference Include=".\..\viewproducto\viewproducto.csproj" />
+		<ProjectReference Include=".\..\viewsucursal\viewsucursal.csproj" />
+		<ProjectReference Include=".\..\wwsucursal\wwsucursal.csproj" />
+		<ProjectReference Include=".\..\wwproducto\wwproducto.csproj" />
+		<ProjectReference Include=".\..\wwfactura\wwfactura.csproj" />
+		<ProjectReference Include=".\..\wwtipodeproducto\wwtipodeproducto.csproj" />
+		<ProjectReference Include=".\..\wwproveedor\wwproveedor.csproj" />
+		<ProjectReference Include=".\..\home\home.csproj" />
+		<ProjectReference Include=".\..\montosucursalporfecha\montosucursalporfecha.csproj" />
+		<ProjectReference Include=".\..\sucursalselect\sucursalselect.csproj" />
+		<ProjectReference Include=".\..\ventassucursalporfecha\ventassucursalporfecha.csproj" />
+		<ProjectReference Include=".\..\productostock\productostock.csproj" />
+		<ProjectReference Include=".\..\viewempleado\viewempleado.csproj" />
+		<ProjectReference Include=".\..\productogeneral\productogeneral.csproj" />
+		<ProjectReference Include=".\..\productoproductowc\productoproductowc.csproj" />
+		<ProjectReference Include=".\..\productoproducto1wc\productoproducto1wc.csproj" />
+		<ProjectReference Include=".\..\sucursalgeneral\sucursalgeneral.csproj" />
+		<ProjectReference Include=".\..\sucursalproductowc\sucursalproductowc.csproj" />
+		<ProjectReference Include=".\..\sucursalfacturawc\sucursalfacturawc.csproj" />
+		<ProjectReference Include=".\..\viewproveedor\viewproveedor.csproj" />
+		<ProjectReference Include=".\..\viewtipodeproducto\viewtipodeproducto.csproj" />
+		<ProjectReference Include=".\..\viewfactura\viewfactura.csproj" />
+		<ProjectReference Include=".\..\empleadogeneral\empleadogeneral.csproj" />
+		<ProjectReference Include=".\..\empleadosucursalwc\empleadosucursalwc.csproj" />
+		<ProjectReference Include=".\..\empleadosucursal1wc\empleadosucursal1wc.csproj" />
+		<ProjectReference Include=".\..\proveedorgeneral\proveedorgeneral.csproj" />
+		<ProjectReference Include=".\..\proveedorproductowc\proveedorproductowc.csproj" />
+		<ProjectReference Include=".\..\tipodeproductogeneral\tipodeproductogeneral.csproj" />
+		<ProjectReference Include=".\..\tipodeproductoproductowc\tipodeproductoproductowc.csproj" />
+		<ProjectReference Include=".\..\facturageneral\facturageneral.csproj" />
+		<ProjectReference Include=".\..\facturaproductowc\facturaproductowc.csproj" />
+		<ProjectReference Include=".\..\gx0031\gx0031.csproj" />
+		<ProjectReference Include=".\..\gx0040\gx0040.csproj" />
+		<ProjectReference Include=".\..\gx0061\gx0061.csproj" />
+		<ProjectReference Include=".\..\empleado\empleado.csproj" />
+		<ProjectReference Include=".\..\sucursal\sucursal.csproj" />
+		<ProjectReference Include=".\..\producto\producto.csproj" />
+		<ProjectReference Include=".\..\factura\factura.csproj" />
+		<ProjectReference Include=".\..\tipodeproducto\tipodeproducto.csproj" />
+		<ProjectReference Include=".\..\proveedor\proveedor.csproj" />
+		<ProjectReference Include=".\..\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj" />
+
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="GeneXus.dll" > 
+			<HintPath>$(WebBinDirectory)\GeneXus.dll</HintPath>
+		</Reference>
+
+
+	</ItemGroup>
+
+	<ItemGroup>
+
+	</ItemGroup>
+	<ItemGroup Condition="'$(PostgresqlSupport)'=='true'">
+		<PackageReference Include="Npgsql" Version="3.2.7" PrivateAssets="All"/>
+	</ItemGroup>
+
+	<Import Project="..\DotNetCoreBaseProject.targets"/>	
+</Project>

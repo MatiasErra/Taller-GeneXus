@@ -1,0 +1,542 @@
+spec_i([ proc,16,'sucursal List',sucursalList,78,spa,'18_0_1-167910' ]).
+ 
+struct_i(2,1,[],[]).
+struct_i(3,2,[ 2 ],[]).
+ 
+level_i(2,[ 2,[ [ 2,many ],[ 509,one ],[ 510,one ] ],[],[],[ [ [ 2,509,510 ],[ 2,20,19,14,13,3,4 ] ] ],[ [ [ 2,509,510 ],[] ] ],[ 2 ],'ISUCURSAL',[ 2,[ [ [],'Sucursalid',2 ] ] ],[] ]).
+level_i(3,[ 3,[ [ 3,many ],[ 4,one ] ],[],[],[ [ [ 3,4 ],[ 2,30,25,5 ] ] ],[ [ [ 3,4 ],[] ] ],[ 25 ],'',[],[] ]).
+ 
+tw_i(2,[ [ 509,[ [ 2,3,1 ] ] ],[ 510,[ [ 2,4,1 ] ] ] ]).
+tw_i(3,[ [ 4,[ [ 3,5,5 ] ] ] ]).
+ 
+lwi_i(2,[ [] ]).
+lwi_i(3,[ [ c([ t(2,2),t(=,10),t(2,23) ],[ 2 ]) ] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [ [ 2,3 ],[ 2,4 ],[ 2,2 ],[ 510,20 ],[ 509,19 ],[ 2,14 ],[ 2,13 ] ] ]).
+ta_i(3,[ [ [ 3,5 ],[ 3,2 ],[ 3,30 ],[ 4,25 ] ] ]).
+ 
+las_i(2,[ [ 2,20,19,14,13,3,4 ] ]).
+las_i(3,[ [ 2,30,25,5 ] ]).
+ 
+lac_i(2,[ [] ]).
+lac_i(3,[ [] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','')).
+rule_i(0,datastore(1,'USER_PASSWORD','')).
+rule_i(0,datastore(1,'USER_ID','')).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','Yes')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','DESKTOP-PMKO4KD\SQLEXPRESS')).
+rule_i(0,datastore(1,'CS_DBNAME',xd)).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','Public')).
+rule_i(0,prop('FullyQualifiedName',sucursalList)).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('AppGenerator','1')).
+rule_i(0,prop('AppLocation','')).
+rule_i(0,prop('AppIcon','')).
+rule_i(0,prop('AppTitle','')).
+rule_i(0,prop('WEB_SECURITY_LEVEL','High')).
+rule_i(0,prop('HTTP_PROTOCOL','Unsecure')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('COMPRESS_HTML','UMPV')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,xd2))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','HTTP')).
+rule_i(0,prop('IsMain','-1')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(8,'Procedures'))).
+rule_i(0,prop('ObjDesc','sucursal List')).
+rule_i(0,prop('ObjName',sucursalList)).
+rule_i(0,maingen(41)).
+rule_i(0,prop('PGMTYPE',main)).
+rule_i(0,output_file(t('sucursalDetails.pdf',3),t(pdf,3))).
+rule_i(0,parm([ 'Sucursalid' ],[])).
+rule_i(0,parmio([ [ 'Sucursalid',in ] ])).
+rule_i(0,output('FIL')).
+ 
+a_i(1,1,f,'Line',[],[ [],[ t(0,3) ] ]).
+a_i(2,1,f,'Err',[],[ [],[ t('0',3) ] ]).
+a_i(3,3,t,3,[],[ [],'',[] ]).
+a_i(4,3,r,4,[],[ [ [ 3,5,5 ] ],'IPRODUCTO',[] ]).
+a_i(5,2,t,2,[],[ [ [ [],'Sucursalid',2 ] ],'ISUCURSAL',[] ]).
+a_i(6,2,r,509,[],[ [ [ 2,3,1 ] ],'IEMPLEADO',[] ]).
+a_i(7,2,r,510,[],[ [ [ 2,4,1 ] ],'IEMPLEADO',[] ]).
+ 
+v_i(f,i,1,[]).
+v_i(f,o,1,'Line').
+v_i(f,i,2,[]).
+v_i(f,o,2,'Err').
+v_i(t,i,3,[]).
+v_i(t,o,3,5).
+v_i(t,o,3,2).
+v_i(t,o,3,30).
+v_i(r,i,4,5).
+v_i(r,o,4,25).
+v_i(t,i,5,'Sucursalid').
+v_i(t,o,5,3).
+v_i(t,o,5,4).
+v_i(t,o,5,2).
+v_i(t,o,5,14).
+v_i(t,o,5,13).
+v_i(r,i,6,3).
+v_i(r,o,6,19).
+v_i(r,i,7,4).
+v_i(r,o,7,20).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',15 ]).
+attri_i(4,[ sucursalEmpleadoAlternateId,int,4,0,'ZZZ9',0,'sucursal Empleado Alternate Id','',0 ]).
+attri_i(1,[ empleadoId,int,4,0,'ZZZ9',0,'empleado Id','',0 ]).
+attri_i(3,[ sucursalEmpleadoHeadlineId,int,4,0,'ZZZ9',0,'sucursal Empleado Headline Id','',0 ]).
+attri_i(5,[ productoId,int,4,0,'ZZZ9',0,'producto Id','',0 ]).
+attri_i(2,[ sucursalId,int,4,0,'ZZZ9',0,'sucursal Id','',0 ]).
+attri_i('Page',[ 'Gx_page',int,6,0,'ZZZZZ9',0,'Page number','',14 ]).
+attri_i('Line',[ 'Gx_line',int,6,0,'ZZZZZ9',0,'Line number','',13 ]).
+attri_i(20,[ sucursalEmpleadoAlternateName,svchar,40,0,'',0,'sucursal Empleado Alternate Name','',0 ]).
+attri_i(19,[ sucursalEmpleadoHeadlineName,svchar,40,0,'',0,'sucursal Empleado Headline Name','',0 ]).
+attri_i(14,[ sucursalAddress,svchar,1024,0,'',0,'sucursal Address','',0 ]).
+attri_i(13,[ sucursalName,svchar,40,0,'',0,'sucursal Name','',0 ]).
+attri_i(30,[ productoStock,int,10,0,'ZZZZZZZZZ9',0,'producto Stock','',0 ]).
+attri_i(25,[ productoName,svchar,40,0,'',0,'producto Name','',0 ]).
+attri_i('Errmsg',[ 'Gx_emsg',char,70,0,'',1,'Error text','',10 ]).
+attri_i('Err',[ 'Gx_err',int,3,0,'ZZ9',1,'Error code','',9 ]).
+attri_i('Sucursalid',[ sucursalId,int,4,0,'ZZZ9',0,'sucursal Id','',8 ]).
+ 
+table_i(4,[ producto,[ 5,25 ],producto,producto ]).
+table_i(3,[ sucursalproducto,[ 2,5,30 ],producto,sucursalproducto ]).
+table_i(509,[ empleado,[ 3,19 ],empleado,empleado ]).
+table_i(510,[ empleado,[ 4,20 ],empleado,empleado ]).
+table_i(2,[ sucursal,[ 2,13,14,3,4 ],sucursal,sucursal ]).
+ 
+index_i(3,[ '',a,[ 25 ],'' ]).
+index_i(3,[ 'ISUCURSALPRODUCTO',u,[ 2,5 ],'Isucursalproducto' ]).
+index_i(4,[ 'IPRODUCTO',u,[ 5 ],'Iproducto' ]).
+index_i(2,[ 'ISUCURSAL',u,[ 2 ],'Isucursal' ]).
+index_i(509,[ 'IEMPLEADO',u,[ 3 ],'Iempleado' ]).
+index_i(510,[ 'IEMPLEADO',u,[ 4 ],'Iempleado' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,26,productoImage_GXI,[ svchar,2048,0,0 ]).
+ 
+ 
+ 
+ 
+start_i(2,0,0,[ [ [ 2,23,'Sucursalid',= ] ],one ]).
+ 
+end_i(2,0,0,[ [ [ t(2,2),t(=,10),t('Sucursalid',23) ] ] ]).
+ 
+ 
+map_i(510,a,20,[ empleadoName ]).
+map_i(510,a,4,[ empleadoId ]).
+map_i(509,a,19,[ empleadoName ]).
+map_i(509,a,3,[ empleadoId ]).
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(94,[ 'Name' ]).
+dom_info_i(97,[ 'Stock' ]).
+dom_info_i(44,[ 'GeneXus\Address' ]).
+dom_info_i(96,[ 'Price' ]).
+dom_info_i(47,[ 'GeneXus\Geolocation' ]).
+dom_info_i(95,[ 'CI' ]).
+dom_info_i(46,[ 'GeneXus\Email' ]).
+dom_info_i(49,[ 'GeneXus\Phone' ]).
+ 
+ 
+break_i(3,nvg,2,[ 25 ],[ [ 25,30 ],[],[] ]).
+break_i(2,nvg,1,[],[ [ 13,14,19,20 ],[ 2 ],[] ]).
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,10).
+b_group_i(1,2,nvg,2,3,3).
+b_group_i(2,1,lit,0,12,23).
+b_group_i(2,2,nvg,3,10,10).
+b_group_i(3,1,lit,0,27,33).
+b_group_i(2,3,lit,0,34,31).
+b_group_i(1,3,lit,0,35,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,1,1,pb,0,[ t('Title',29,0,7) ]).
+b_line_i([ 1,0 ],1,1,line,0,[ t(' ',3,0,0) ]).
+b_line_i([ 1,2 ],1,1,line,2,[ t('Sucursal',3,2,50) ]).
+b_line_i([ 1,4 ],1,1,line,4,[ t(' ',3,4,0) ]).
+b_line_i(2,1,1,pb,5,[ t('Columntitles',29,5,7) ]).
+b_line_i([ 2,0 ],1,1,line,5,[ t(' ',3,0,0) ]).
+b_line_i([ 2,2 ],1,1,line,7,[ t('Name',3,2,3),t('Address',3,2,28),t('EmpleadoHeadline',3,2,58),t('EmpleadoAlternate',3,2,89) ]).
+b_line_i([ 2,4 ],1,1,line,9,[ t(' ',3,4,0) ]).
+b_line_i(3,2,1,cmd,12,[ t('',121,3,0),t(table,3,3,10),t(2,3,3,10) ]).
+b_line_i(4,2,1,cmd,12,[]).
+b_line_i(6,2,1,pb,12,[ t('Sucursaldetail',29,12,8) ]).
+b_line_i([ 6,0 ],2,1,line,12,[ t(' ',3,0,0) ]).
+b_line_i([ 6,2 ],2,1,line,14,[ t(13,2,2,3),t(14,2,2,28),t(19,2,2,58),t(20,2,2,89) ]).
+b_line_i([ 6,4 ],2,1,line,16,[ t(' ',3,4,0) ]).
+b_line_i(7,2,1,cmd,17,[]).
+b_line_i(8,2,1,pb,17,[ t('Producttitle',29,17,8) ]).
+b_line_i([ 8,0 ],2,1,line,17,[ t(' ',3,0,0) ]).
+b_line_i([ 8,1 ],2,1,line,18,[ t('Productos',3,1,50) ]).
+b_line_i([ 8,2 ],2,1,line,19,[ t(' ',3,2,0) ]).
+b_line_i(9,2,1,pb,20,[ t('Productcolumntitles',29,20,8) ]).
+b_line_i([ 9,0 ],2,1,line,20,[ t(' ',3,0,0) ]).
+b_line_i([ 9,1 ],2,1,line,21,[ t('Name',3,1,35),t('Stock',3,1,65) ]).
+b_line_i([ 9,2 ],2,1,line,22,[ t(' ',3,2,0) ]).
+b_line_i(10,3,1,cmd,27,[ t('',121,10,0),t(table,3,10,11),t(3,3,10,11),t('ORDER',39,10,93),t(25,2,10,99) ]).
+b_line_i(11,3,1,pb,27,[ t('Productdetail',29,27,9) ]).
+b_line_i([ 11,0 ],3,1,line,27,[ t(' ',3,0,0) ]).
+b_line_i([ 11,2 ],3,1,line,29,[ t(25,2,2,35),t(30,2,2,66) ]).
+b_line_i([ 11,5 ],3,1,line,32,[ t(' ',3,5,0) ]).
+b_line_i(12,3,1,cmd,33,[ t('',128,12,0) ]).
+b_line_i(13,2,3,cmd,31,[ t('',128,13,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11909,16834,0,0,0,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+warn_gen_i(msg([],spc0038,[ 'There is no index for order ',[ att(2,25) ],'; poor performance may be noticed',[ ' in group starting at line ','10','' ],'.' ])).
+ 
+ 
+ 
+lit_i(2,1,t('Sucursal',3),[ font('Microsoft Sans Serif',14,[ bold ]),rect(350,33,435,58),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel1'),gxcolor([]) ]).
+lit_i(1,1,window,[ title('Text'),rect(0,0,827,80),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Title'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(1,2,t('Name',3),[ font('Microsoft Sans Serif',10,[]),rect(25,33,65,51),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel2'),gxcolor([]) ]).
+lit_i(6,2,t('EmpleadoAlternate',3),[ font('Microsoft Sans Serif',10,[]),rect(625,33,747,51),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel5'),gxcolor([]) ]).
+lit_i(7,2,rect(7),[ rect(17,50,800,50),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline1'),gxcolor([]),borderstyle(0) ]).
+lit_i(4,2,t('Address',3),[ font('Microsoft Sans Serif',10,[]),rect(200,33,254,51),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel3'),gxcolor([]) ]).
+lit_i(5,2,t('EmpleadoHeadline',3),[ font('Microsoft Sans Serif',10,[]),rect(408,33,532,51),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel4'),gxcolor([]) ]).
+lit_i(3,2,window,[ title('Text'),rect(0,0,827,74),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Columntitles'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(9,6,t(13,2),[ font('Microsoft Sans Serif',10,[]),rect(25,33,183,51),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('13'),ctrltype(edit,9),ispwd(0),gxcolor([]) ]).
+lit_i(10,6,t(14,2),[ font('Microsoft Sans Serif',10,[]),rect(200,33,400,51),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('14'),ctrltype(edit,10),ispwd(0),gxcolor([]) ]).
+lit_i(11,6,t(19,2),[ font('Microsoft Sans Serif',10,[]),rect(408,33,616,51),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('19'),ctrltype(edit,11),ispwd(0),gxcolor([]) ]).
+lit_i(12,6,t(20,2),[ font('Microsoft Sans Serif',10,[]),rect(625,33,808,51),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('20'),ctrltype(edit,12),ispwd(0),gxcolor([]) ]).
+lit_i(8,6,window,[ title('Text'),rect(0,0,827,74),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Sucursaldetail'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(14,8,t('Productos',3),[ font('Microsoft Sans Serif',14,[ bold ]),rect(350,17,449,42),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel6'),gxcolor([]) ]).
+lit_i(13,8,window,[ title('Text'),rect(0,0,827,58),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Producttitle'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(16,9,t('Name',3),[ font('Microsoft Sans Serif',10,[]),rect(250,17,290,35),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel7'),gxcolor([]) ]).
+lit_i(17,9,t('Stock',3),[ font('Microsoft Sans Serif',10,[]),rect(458,17,494,35),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel8'),gxcolor([]) ]).
+lit_i(21,9,rect(21),[ rect(250,33,517,33),outstyle(none),fill,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(1),ctlname('Gxreportline2'),gxcolor([]),borderstyle(0) ]).
+lit_i(15,9,window,[ title('Text'),rect(0,0,827,54),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Productcolumntitles'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(22,11,t(25,2),[ font('Microsoft Sans Serif',8,[]),rect(250,33,417,48),outstyle(none),align(left),valign(top),fore(rgb(0,0,0)),border(1),format(0),ctlname('25'),ctrltype(edit,22),ispwd(0),gxcolor([]) ]).
+lit_i(23,11,t(30,2),[ font('Microsoft Sans Serif',8,[]),rect(467,33,531,48),outstyle(none),align(left),valign(top),noclip,fore(rgb(0,0,0)),border(1),format(0),ctlname('30'),ctrltype(edit,23),ispwd(0),gxcolor([]) ]).
+lit_i(18,11,window,[ title('Text'),rect(0,0,827,100),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Productdetail'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ 
+ 
+calling_main_i(1,16).
+ 
+att_prop_i(2,25,'ExternalName',productoName,d).
+att_prop_i(2,25,'ExternalNamespace',xd2,d).
+att_prop_i(2,25,'EmptyAsNull','Yes',d).
+att_prop_i(2,25,idBasedOn,94,v).
+att_prop_i(2,25,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,25,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,25,'AttRegEx','',d).
+att_prop_i(2,25,'AttValidationFailedMsg','',d).
+att_prop_i(2,25,'DownloadOffline','0',d).
+att_prop_i(2,25,'VarServiceExtName','',d).
+att_prop_i(2,25,'FullName',productoName,v).
+att_prop_i(2,30,'ExternalName',productoStock,d).
+att_prop_i(2,30,'ExternalNamespace',xd2,d).
+att_prop_i(2,30,'EmptyAsNull','Yes',d).
+att_prop_i(2,30,idBasedOn,97,v).
+att_prop_i(2,30,'AUTONUMBER','0',d).
+att_prop_i(2,30,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,30,'AttRegEx','',d).
+att_prop_i(2,30,'AttValidationFailedMsg','',d).
+att_prop_i(2,30,'DownloadOffline','0',d).
+att_prop_i(2,30,'VarServiceExtName','',d).
+att_prop_i(2,30,'FullName',productoStock,v).
+att_prop_i(2,13,'ExternalName',sucursalName,d).
+att_prop_i(2,13,'ExternalNamespace',xd2,d).
+att_prop_i(2,13,'EmptyAsNull','Yes',d).
+att_prop_i(2,13,idBasedOn,94,v).
+att_prop_i(2,13,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,13,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,13,'AttRegEx','',d).
+att_prop_i(2,13,'AttValidationFailedMsg','',d).
+att_prop_i(2,13,'DownloadOffline','0',d).
+att_prop_i(2,13,'VarServiceExtName','',d).
+att_prop_i(2,13,'FullName',sucursalName,v).
+att_prop_i(2,14,'ExternalName',sucursalAddress,d).
+att_prop_i(2,14,'ExternalNamespace',xd2,d).
+att_prop_i(2,14,'EmptyAsNull','Yes',d).
+att_prop_i(2,14,idBasedOn,44,v).
+att_prop_i(2,14,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,14,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,14,'AttRegEx','',d).
+att_prop_i(2,14,'AttValidationFailedMsg','',d).
+att_prop_i(2,14,'DownloadOffline','0',d).
+att_prop_i(2,14,'VarServiceExtName','',d).
+att_prop_i(2,14,'FullName',sucursalAddress,v).
+att_prop_i(2,19,'ExternalName',sucursalEmpleadoHeadlineName,d).
+att_prop_i(2,19,'ExternalNamespace',xd2,d).
+att_prop_i(2,19,'EmptyAsNull','Yes',d).
+att_prop_i(2,19,idBasedOn,94,d).
+att_prop_i(2,19,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,19,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,19,'AttRegEx','',d).
+att_prop_i(2,19,'AttValidationFailedMsg','',d).
+att_prop_i(2,19,'DownloadOffline','0',d).
+att_prop_i(2,19,'VarServiceExtName','',d).
+att_prop_i(2,19,'FullName',sucursalEmpleadoHeadlineName,v).
+att_prop_i(2,20,'ExternalName',sucursalEmpleadoAlternateName,d).
+att_prop_i(2,20,'ExternalNamespace',xd2,d).
+att_prop_i(2,20,'EmptyAsNull','Yes',d).
+att_prop_i(2,20,idBasedOn,94,d).
+att_prop_i(2,20,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,20,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,20,'AttRegEx','',d).
+att_prop_i(2,20,'AttValidationFailedMsg','',d).
+att_prop_i(2,20,'DownloadOffline','0',d).
+att_prop_i(2,20,'VarServiceExtName','',d).
+att_prop_i(2,20,'FullName',sucursalEmpleadoAlternateName,v).
+att_prop_i(2,2,'ExternalName',sucursalId,d).
+att_prop_i(2,2,'ExternalNamespace',xd2,d).
+att_prop_i(2,2,'EmptyAsNull','Yes',d).
+att_prop_i(2,2,idBasedOn,'',d).
+att_prop_i(2,2,'AUTONUMBER','-1',v).
+att_prop_i(2,2,'AUTONUMBER_START','1',d).
+att_prop_i(2,2,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,2,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,2,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,2,'AttRegEx','',d).
+att_prop_i(2,2,'AttValidationFailedMsg','',d).
+att_prop_i(2,2,'DownloadOffline','0',d).
+att_prop_i(2,2,'VarServiceExtName','',d).
+att_prop_i(2,2,'FullName',sucursalId,v).
+att_prop_i(2,5,'ExternalName',productoId,d).
+att_prop_i(2,5,'ExternalNamespace',xd2,d).
+att_prop_i(2,5,'EmptyAsNull','Yes',d).
+att_prop_i(2,5,idBasedOn,'',d).
+att_prop_i(2,5,'AUTONUMBER','-1',v).
+att_prop_i(2,5,'AUTONUMBER_START','1',d).
+att_prop_i(2,5,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,5,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,5,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,5,'AttRegEx','',d).
+att_prop_i(2,5,'AttValidationFailedMsg','',d).
+att_prop_i(2,5,'DownloadOffline','0',d).
+att_prop_i(2,5,'VarServiceExtName','',d).
+att_prop_i(2,5,'FullName',productoId,v).
+att_prop_i(2,3,'ExternalName',sucursalEmpleadoHeadlineId,d).
+att_prop_i(2,3,'ExternalNamespace',xd2,d).
+att_prop_i(2,3,'EmptyAsNull','Yes',d).
+att_prop_i(2,3,idBasedOn,'',d).
+att_prop_i(2,3,'AUTONUMBER','-1',d).
+att_prop_i(2,3,'AUTONUMBER_START','1',d).
+att_prop_i(2,3,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,3,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,3,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,3,'AttRegEx','',d).
+att_prop_i(2,3,'AttValidationFailedMsg','',d).
+att_prop_i(2,3,'DownloadOffline','0',d).
+att_prop_i(2,3,'VarServiceExtName','',d).
+att_prop_i(2,3,'FullName',sucursalEmpleadoHeadlineId,v).
+att_prop_i(2,1,'ExternalName',empleadoId,d).
+att_prop_i(2,1,'ExternalNamespace',xd2,d).
+att_prop_i(2,1,'EmptyAsNull','Yes',d).
+att_prop_i(2,1,idBasedOn,'',d).
+att_prop_i(2,1,'AUTONUMBER','-1',v).
+att_prop_i(2,1,'AUTONUMBER_START','1',d).
+att_prop_i(2,1,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,1,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,1,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,1,'AttRegEx','',d).
+att_prop_i(2,1,'AttValidationFailedMsg','',d).
+att_prop_i(2,1,'DownloadOffline','0',d).
+att_prop_i(2,1,'VarServiceExtName','',d).
+att_prop_i(2,1,'FullName',empleadoId,v).
+att_prop_i(2,4,'ExternalName',sucursalEmpleadoAlternateId,d).
+att_prop_i(2,4,'ExternalNamespace',xd2,d).
+att_prop_i(2,4,'EmptyAsNull','Yes',d).
+att_prop_i(2,4,idBasedOn,'',d).
+att_prop_i(2,4,'AUTONUMBER','-1',d).
+att_prop_i(2,4,'AUTONUMBER_START','1',d).
+att_prop_i(2,4,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,4,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,4,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,4,'AttRegEx','',d).
+att_prop_i(2,4,'AttValidationFailedMsg','',d).
+att_prop_i(2,4,'DownloadOffline','0',d).
+att_prop_i(2,4,'VarServiceExtName','',d).
+att_prop_i(2,4,'FullName',sucursalEmpleadoAlternateId,v).
+ 
+tbl_prop_i(2,3,'AllDirSuper',[ [ 4,[ 5 ] ],[ 2,[ 2 ] ] ],v).
+tbl_prop_i(2,2,'AllDirSuper',[ [ 509,[ 3 ] ],[ 510,[ 4 ] ] ],v).
+tbl_prop_i(2,2,'DirSuperNull',[ [ 510,[ 4 ] ] ],v).
+tbl_prop_i(2,510,'DirSubor',[ [ 2,[ 3 ] ],[ 2,[ 4 ] ] ],v).
+tbl_prop_i(2,1,'DirSubor',[ [ 2,[ 3 ] ],[ 2,[ 4 ] ] ],v).
+tbl_prop_i(2,509,'DirSubor',[ [ 2,[ 3 ] ],[ 2,[ 4 ] ] ],v).
+tbl_prop_i(2,4,'DirSubor',[ [ 3,[ 5 ] ] ],v).
+tbl_prop_i(2,2,'DirSubor',[ [ 3,[ 2 ] ] ],v).
+tbl_prop_i(2,3,'DirSuper',[ [ 4,[ 5 ] ],[ 2,[ 2 ] ] ],v).
+tbl_prop_i(2,2,'DirSuper',[ [ 509,[ 3 ] ],[ 510,[ 4 ] ] ],v).
+ 
+tbl_att_prop_i(2,3,2,'AllowNulls',n).
+tbl_att_prop_i(2,3,5,'AllowNulls',n).
+tbl_att_prop_i(2,3,30,'AllowNulls',n).
+tbl_att_prop_i(2,4,5,'AllowNulls',n).
+tbl_att_prop_i(2,4,5,'AUTONUMBER',y).
+tbl_att_prop_i(2,4,25,'AllowNulls',n).
+tbl_att_prop_i(2,2,2,'AllowNulls',n).
+tbl_att_prop_i(2,2,2,'AUTONUMBER',y).
+tbl_att_prop_i(2,2,13,'AllowNulls',n).
+tbl_att_prop_i(2,2,14,'AllowNulls',n).
+tbl_att_prop_i(2,2,3,'AllowNulls',n).
+tbl_att_prop_i(2,509,3,'AllowNulls',n).
+tbl_att_prop_i(2,509,19,'AllowNulls',n).
+tbl_att_prop_i(2,510,4,'AllowNulls',n).
+tbl_att_prop_i(2,510,20,'AllowNulls',n).
+ 
+var_prop_i(2,'Sucursalid',idBasedOn,'',v).
+ 
+ 
+ 
+a_alias_i(3,sucursalEmpleadoHeadlineId).
+a_alias_i(19,sucursalEmpleadoHeadlineName).
+a_alias_i(4,sucursalEmpleadoAlternateId).
+a_alias_i(20,sucursalEmpleadoAlternateName).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_callprotocol_i(proc,16,'SUCURSALLIST','HTTP','Unsecure').
+ 
+ 
+pgm_main_info_i(proc,16,'SUCURSALLIST',[ 41,'ASUCURSALLIST','sucursal List','','','','HTTP' ]).
+ 
+ 
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

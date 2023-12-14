@@ -1,0 +1,10 @@
+D:\GenX\xd2\NETSQLServer002\web\bin\wwempleado.dll
+D:\GenX\xd2\NETSQLServer002\web\bin\wwempleado.pdb
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\wwempleado.csproj.AssemblyReference.cache
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\wwempleado.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\wwempleado.csproj.CoreCompileInputs.cache
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\wwempleado.csproj.CopyComplete
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\wwempleado.dll
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\refint\wwempleado.dll
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\wwempleado.pdb
+D:\GenX\xd2\NETSQLServer002\build\wwempleado\obj\Release\net6.0\ref\wwempleado.dll

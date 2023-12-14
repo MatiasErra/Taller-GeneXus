@@ -1,0 +1,86 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_1-167910</SpecVersion>
+<Object>
+<ObjClsGuid>c9584656-94b6-4ccd-890f-332d11fc2c25</ObjClsGuid>
+<ObjCls>13</ObjCls>
+<ObjId>14</ObjId>
+<ObjName>sucursalSelect</ObjName>
+<ObjDesc>sucursal Select</ObjDesc>
+<ObjPgmName>sucursalSelect</ObjPgmName>
+<ObjClsName>Web Panel</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>HTML</FormClass>
+<Parameters></Parameters>
+<StandAloneRules>
+<Action>
+<ActionType>DynamicLoad</ActionType>
+<DynamicLoad>
+<ControlName>
+<Variable>
+<VarId>Sucursalid</VarId>
+<VarName>&amp;sucursalId</VarName></Variable></ControlName>
+<CodeAttributes>
+<Attribute>
+<AttriId>2</AttriId>
+<AttriName>sucursalId</AttriName>
+<Description>sucursal Id</Description></Attribute></CodeAttributes>
+<DescriptionAttributes>
+<Attribute>
+<AttriId>13</AttriId>
+<AttriName>sucursalName</AttriName>
+<Description>sucursal Name</Description></Attribute></DescriptionAttributes>
+<Navigation>
+<NavigationTree>
+<Table>
+<TableId>2</TableId>
+<TableName>sucursal</TableName>
+<Description>sucursal</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>2</AttriId>
+<AttriName>sucursalId</AttriName>
+<Description>sucursal Id</Description></Attribute></KeyAttributes>
+<Into>
+<Attribute>
+<AttriId>2</AttriId>
+<AttriName>sucursalId</AttriName>
+<Description>sucursal Id</Description></Attribute>
+<Attribute>
+<AttriId>13</AttriId>
+<AttriName>sucursalName</AttriName>
+<Description>sucursal Name</Description></Attribute></Into>
+<Tables></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<NavigationConditions></NavigationConditions>
+<NavigationOrder>
+<Order>
+<Attribute>
+<AttriId>13</AttriId>
+<AttriName>sucursalName</AttriName>
+<Description>sucursal Name</Description></Attribute></Order>
+<Condition></Condition></NavigationOrder></Navigation></DynamicLoad></Action></StandAloneRules>
+<Event>
+<EventName>'listarSucursal'</EventName>
+<CALL>
+<Object>
+<ObjClsGuid>84a12160-f59b-4ad7-a683-ea4481ac23e9</ObjClsGuid>
+<ObjCls>1</ObjCls>
+<ObjId>16</ObjId>
+<ObjName>sucursalList</ObjName>
+<ObjPgmName>sucursalList</ObjPgmName>
+<ObjClsName>Procedure</ObjClsName></Object>
+<Expression>
+<Variable>
+<VarId>Sucursalid</VarId>
+<VarName>&amp;sucursalId</VarName></Variable></Expression>
+<IF></IF></CALL></Event>
+<Event>
+<EventName>Load</EventName></Event>
+<Suggests></Suggests></ObjectSpec>
